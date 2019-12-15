@@ -1,4 +1,4 @@
-#Weebly Base Theme - CSS Version
+# Weebly Base Theme - CSS Version
 
 ## Get Started with Weebly Themes
 
